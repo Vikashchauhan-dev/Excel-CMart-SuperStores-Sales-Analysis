@@ -101,7 +101,7 @@ Used:
 
 # Dashboard Preview
 
-![Dashboard Preview](Dashboard/CMart_Sales_Dashboard.png)
+![Dashboard Preview](CMart_Sales_Dashboard.png)
 
 ---
 
