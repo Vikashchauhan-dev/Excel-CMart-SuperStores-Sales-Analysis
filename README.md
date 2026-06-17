@@ -180,6 +180,8 @@ Customer Rating Funnel
 
 Geographical Sales Distribution
 
+Clear All filters on Single Click 
+
 Automate Data Refresh Dashboard by using VBA
 
 ---
