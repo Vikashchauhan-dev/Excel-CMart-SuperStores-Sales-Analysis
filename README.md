@@ -232,21 +232,17 @@ Connect with SQL Database
 
 ## Vikash Chauhan
 
-MCA (AI & ML)
+Student of Chandigarh University
 
-Chandigarh University
+Pursuing MCA (Data Science in AI & ML)
 
 Skills
 
 Excel • SQL • Power BI • Python • AI
 
-GitHub
-
-https://github.com/YourGitHubUsername
-
-LinkedIn
-
-https://linkedin.com/in/YourLinkedInProfile
+- LinkedIn: www.linkedin.com/in/vikashchauhan01
+- GitHub: https://github.com/Vikashchauhan-dev
+- Email: Vikashchauhan10211@gmail.com
 
 ---
 
